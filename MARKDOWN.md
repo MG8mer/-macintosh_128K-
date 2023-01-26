@@ -20,6 +20,14 @@ Now of course I could elaborate for hours on the magnifecence of **ALL** compute
 
 ![GODLY MAGNIFECENCE](https://user-images.githubusercontent.com/123292179/214824275-9c4072d1-efaf-446f-9ba8-7cb66c8382a3.png)
 
+Isn't it **MAGNIFECENT**
+
+Now what's even ~WORSE~ I MEAN *better* are the specifications, just listen for a moment :open_mouth::
+
+1. `CPU`: A *Motorola 68000 microprocessor* with a speed of 7.8336 MHz 💻
+2. `GPU`: A Graphics Card **integrared** into the CPU! 🔌
+3. `Storage`: A practical *Floppy Disk Drive* with a *HEFTY* **400 KB** of storage! 💾
+
 
 
 
