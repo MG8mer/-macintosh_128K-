@@ -2,7 +2,8 @@
 *Ahh yes*, tech in the 20th century, or more specifically:
 
 ## Computers!!!!
-![True Magnificence](https://user-images.githubusercontent.com/123292179/214824275-9c4072d1-efaf-446f-9ba8-7cb66c8382a3.png)
+
+![True Magnificence](https://user-images.githubusercontent.com/123292179/214828757-9e445c0f-1249-45cb-9a59-71d979a07506.png)
 
 Isn't it beautiful?!
 
@@ -10,7 +11,18 @@ What? You're not convinced? How dare you!!! By the end of this post, you will re
 sizes of 8 GB and `Computing Speeds` of more than 2 GHz! 
 
 ~or you will realize how HORRENDOUS computers used to be relative our fantastic computers~
- > Ignore that that's just my rationality.
+ > Ignore that, that's just my rationality.
+---
+
+Now of course I could elaborate for hours on the magnifecence of **ALL** computers, but nothing outclasses:
+
+## THE MACINTOSH 128K!!!
+
+![GODLY MAGNIFECENCE](https://user-images.githubusercontent.com/123292179/214824275-9c4072d1-efaf-446f-9ba8-7cb66c8382a3.png)
+
+
+
+
 
 
 
