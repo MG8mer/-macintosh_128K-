@@ -27,6 +27,9 @@ Now what's even ~WORSE~ I MEAN *better* are the specifications, just listen for 
 1. `CPU`: A *Motorola 68000 microprocessor* with a speed of 7.8336 MHz 💻
 2. `GPU`: A Graphics Card **integrared** into the CPU! 🔌
 3. `Storage`: A practical *Floppy Disk Drive* with a *HEFTY* **400 KB** of storage! 💾
+4. `RAM`: An *OVERWHELMING* 128 KB of Memory!! 🎱
+5. `Display`: An *extravagently*  **Monochrome** display of 9 inches 512x342)! 🖥️
+6. `Manufacturer`: Finally, the manufacturers of this device were of course ~the money hungry hippos~ Apple!
 
 
 
