@@ -38,12 +38,14 @@ Now what's even ~WORSE~ I MEAN *better* are the specifications, just listen for 
 3. `Storage`: A practical *Floppy Disk Drive* with a *HEFTY* **400 KB** of storage! 💾
 4. `RAM`: An *OVERWHELMING* 128 KB of Memory!! 🎱
 5. `Display`: An *extravagently*  **Monochrome** display of 9 inches 512x342)! 🖥️
-6. `Power`: An *incredible* power of 60 WATTS! 🔌
+6. `Power`: An *incredible* power of **60 WATTS!** 🔌
 7. `Manufacturer`: Finally, the manufacturers of this device were of course ~the money hungry hippos~ Apple! 🍎
 
 ## 😮
 
-You see? Look at that! **Simplicity!** It is *EXACTLY* what you need in your day to day life! Just think abo
+You see? Look at that! **Simplicity!** It is *EXACTLY* what you need in your day to day life! Just think about it, who needs 8 GB of `RAM`, who needs 256 GB of `storage`, it's just pure *insanity*, and what's even *WORSE* is that modern computer design is too *simplistic!* Look at this absurdness:
+
+
 
 
 
