@@ -38,8 +38,8 @@ Now what's even *better* are the specifications, just listen for a moment:[^1]
 2. `GPU`: A Graphics Card **integrared** into the CPU! 🔌
 3. `Storage`: A practical *Floppy Disk Drive* with a *HEFTY* **400 KB** of storage! 💾
 4. `RAM`: An *OVERWHELMING* 128 KB of Memory!! 🎱
-5. `Display`: An *extravagently*  **Monochrome** display of 9 inches 512x342)! 🖥️
-6. `Power`: An *incredible* power of **60 WATTS!** 🔌
+5. `Display`: An *extravagently*  **Monochrome** display of 9 inches (512x342)! 🖥️
+6. `Power`: An *incredible* power of **60 WATTS!** 🔋
 7. `Manufacturer`: Finally, the manufacturers of this device were of course ~the money hungry hippos~ Apple! 🍎
 
 ## 😮
@@ -52,7 +52,22 @@ That is an image of the computer I am currently using to make this webpage, the 
 
 > I guess I was born in the wrong generation 😞
 
-Either way,
+Here are the obscene specs:[^2]:
+
+1. `CPU`: A 3.2 GHz M1 chip with 8 cores and a neural engine with 16 cores!? 💻
+2. `GPU`: An 8 core GPU integrated into the M1 chip!? 🔌
+3. `Storage`: An **ungodly** 256 *gigabyte* Solid State Drive!? 💾
+4. `RAM`: An *unexplainable* 8 *gigabytes* of memory!? 🎱
+5. `Display`: A 13.3 inch *retina* display utilizing true tone technology with a resolution of 2560x1600?!?!?!? 🖥️
+6. `Power`: A 49.9 watt-hour lithium-polymer battery. 🔋
+7. `Manufacturer`: Lastly, the manufacturers of the computer I'm using are Apple (the same peole who made the Macintosh 128K) 🍎
+
+Are you kidding me Apple? How could you go from making the *almighty* **Macintosh 128K** to a silly thing called a Macbook? Really? Calling it that because
+you make *Mac* hardware and it folds like a book? How imaginative! 🙄
+
+
+
+
 
 
 
@@ -64,3 +79,4 @@ Either way,
 
 
 [^1]:[Specs](https://apple-history.com/128k)
+[^2]:[Specs](https://support.apple.com/kb/SP825?locale=en_US)
