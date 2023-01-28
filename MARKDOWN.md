@@ -44,6 +44,7 @@ Now what's even *better* are the specifications, just listen for a moment:[^1]
 
 ## 😮
 
+---
 You see? Look at that! **Simplicity!** It is *EXACTLY* what you need in your day to day life! Just think about it, who needs 8 GB of `RAM`, who needs 256 GB of `storage`, it's just pure *insanity*, and what's even *WORSE* is that modern computer design is too *simplistic!* Look at this absurdness:
 
 ![Carnage](https://user-images.githubusercontent.com/123292179/215273466-397f4776-66f9-421a-bafb-017dc1e557b6.png)
@@ -65,9 +66,25 @@ Here are the obscene specs:[^2]:
 Are you kidding me Apple? How could you go from making the *almighty* **Macintosh 128K** to a silly thing called a Macbook? Really? Calling it that because
 you make *Mac* hardware and it folds like a book? How imaginative![^3] 🙄
 
-Also, that design is *disgustingly* slim, a computer needs bulkiness to it!
+Also, that design is *disgustingly* slim, a computer needs bulkiness to it, just like the Macintosh 128K, and a built in keyboard? And a trackpad? Seriously? Why bind them to a keyboard they may not like? Allow them to buy it for themselves!
 
+Anyway...
+
+---
 You were able to make the battery more efficient and keep the GPU integrated, *unlike certain companies that make a seperate piece of hardware for it!* But you *still* increased the `CPU` speed AND `Storage` by a degree of more than a thousand, and gave us 8 GB of `RAM`! What?! 128 KB of `RAM` is more than enough for a standard person, 8 GB is absurd!!
+
+---
+I could go on for hours & hours on this matter, but I think enough has been said.
+
+Maybe you learned something from reading this, or maybe you though it was completely absurd ~(which it kinda was)~.
+
+But either way my point stands:
+
+**The Macintosh 128K is truly a phenomenal piece of hardware and was a gem in the computer world**.
+
+If you've made it this far, thank you, but until later:
+
+# Goodbye!
 
 
 
