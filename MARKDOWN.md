@@ -31,14 +31,17 @@ This is the *perfect* computer! You just can't get better! Other older pieces of
 The blocky aesthetic old desktops used to have was *refined* to **PERFECTION**, the geometry is just incredible, and of course you have a *beautiful* logo
 on the bottom right corner, and a *convinient* DVD player **integrated** into the computer itself!
 
-Now what's even ~WORSE~ I MEAN *better* are the specifications, just listen for a moment :open_mouth::
+Now what's even ~WORSE~ I MEAN *better* are the specifications, just listen for a moment:[^1]
 
 1. `CPU`: A *Motorola 68000 microprocessor* with a speed of 7.8336 MHz 💻
 2. `GPU`: A Graphics Card **integrared** into the CPU! 🔌
 3. `Storage`: A practical *Floppy Disk Drive* with a *HEFTY* **400 KB** of storage! 💾
 4. `RAM`: An *OVERWHELMING* 128 KB of Memory!! 🎱
 5. `Display`: An *extravagently*  **Monochrome** display of 9 inches 512x342)! 🖥️
-6. `Manufacturer`: Finally, the manufacturers of this device were of course ~the money hungry hippos~ Apple!
+6. `Power`: An *incredible* power of 60 WATTS! 🔌
+7. `Manufacturer`: Finally, the manufacturers of this device were of course ~the money hungry hippos~ Apple! 🍎
+
+## 😮
 
 You see? Look at that! **Simplicity!** It is *EXACTLY* what you need in your day to day life! Just think abo
 
@@ -48,3 +51,4 @@ You see? Look at that! **Simplicity!** It is *EXACTLY* what you need in your day
 
 
 
+[^1]: [Specs](https://apple-history.com/128k)
