@@ -63,7 +63,13 @@ Here are the obscene specs:[^2]:
 7. `Manufacturer`: Lastly, the manufacturers of the computer I'm using are Apple (the same peole who made the Macintosh 128K) 🍎
 
 Are you kidding me Apple? How could you go from making the *almighty* **Macintosh 128K** to a silly thing called a Macbook? Really? Calling it that because
-you make *Mac* hardware and it folds like a book? How imaginative! 🙄
+you make *Mac* hardware and it folds like a book? How imaginative![^3] 🙄
+
+Also, that design is *disgustingly* slim, a computer needs bulkiness to it!
+
+You were able to make the battery more efficient and keep the GPU integrated, *unlike certain companies that make a seperate piece of hardware for it!* But you *still* increased the `CPU` speed AND `Storage` by a degree of more than a thousand, and gave us 8 GB of `RAM`! What?! 128 KB of `RAM` is more than enough for a standard person, 8 GB is absurd!!
+
+
 
 
 
@@ -80,3 +86,4 @@ you make *Mac* hardware and it folds like a book? How imaginative! 🙄
 
 [^1]:[Specs](https://apple-history.com/128k)
 [^2]:[Specs](https://support.apple.com/kb/SP825?locale=en_US)
+[^3]: For legal reasons that's a joke, please don't sue me Apple!
