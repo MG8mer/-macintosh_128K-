@@ -4,7 +4,7 @@
 
 ## Computers!!!!
 
-![True Magnificence](https://user-images.githubusercontent.com/123292179/215264493-39333297-7213-4e38-848a-0694f3665351.png)
+![True Magnificence](old_computer)
 
 > Isn't it beautiful?!
 
@@ -21,7 +21,7 @@ Now of course I could elaborate for hours on the magnifecence of **ALL** compute
 
 ## THE MACINTOSH 128K!!!
 
-![GODLY MAGNIFECENCE](https://user-images.githubusercontent.com/123292179/214824275-9c4072d1-efaf-446f-9ba8-7cb66c8382a3.png)
+![GODLY MAGNIFECENCE](macintosh_128K)
 
 > Isn't it **MAGNIFECENT** ✨
 
@@ -47,7 +47,7 @@ Now what's even *better* are the specifications, just listen for a moment:[^1]
 ---
 You see? Look at that! **Simplicity!** It is *EXACTLY* what you need in your day to day life! Just think about it, who needs 8 GB of `RAM`, who needs 256 GB of `storage`, it's just pure *insanity*, and what's even *WORSE* is that modern computer design is too *simplistic!* Look at this absurdness:
 
-![Carnage](https://user-images.githubusercontent.com/123292179/215273466-397f4776-66f9-421a-bafb-017dc1e557b6.png)
+![Carnage](m1_macbook)
 
 That is an image of the computer I am currently using to make this webpage, the `M1 Macbook Air 2020`. It would *most certainly* be preferable to be using an old computer, but I wouldn't be able to show my passion for this old technology. 
 
