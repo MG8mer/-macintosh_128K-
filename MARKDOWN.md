@@ -86,21 +86,6 @@ If you've made it this far, thank you, but until later:
 
 # Goodbye!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [^1]:[Specs](https://apple-history.com/128k)
 [^2]:[Specs](https://support.apple.com/kb/SP825?locale=en_US)
 [^3]: For legal reasons that's a joke, please don't sue me Apple!
