@@ -1,4 +1,4 @@
-# -macintosh_128K- :computer: :notes:
+# -macintosh_128K-
 
 *Ahh yes*, tech in the 20th century, or more specifically:
 
